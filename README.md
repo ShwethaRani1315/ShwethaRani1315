@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi there, I'm Shwetha Rani!
 
-<!--
-**ShwethaRani1315/ShwethaRani1315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring AI/ML Engineer | 🔍 Passionate about Python, Data & Learning  
+🎯 Currently building projects to sharpen my skills and build my portfolio  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My AI/ML Learning Journey
+- ✅ Completed my first mini project: [Expense Tracker with Python](https://github.com/ShwethaRani1315/expense-tracker)
+- 📚 Currently learning core Python & AI fundamentals
+- 🧠 Goal: Become a highly skilled AI/ML engineer
+
+---
+
+### 🔧 Tech I'm Working With
+- Python 🐍
+- Git & GitHub
+- NumPy (learning)
+- Pandas (soon)
+- Building CLI tools & exploring data
+
+---
+
+### 🛠️ Projects I'm Working On
+- [Expense Tracker (CLI)](https://github.com/your-username/expense-tracker)
+
+*More projects coming soon!*
+
+---
+
+### 📫 Let's Connect
+Feel free to check out my journey or connect with me!
+
+- 💼 [My Email](shwetharani1315@gmail.com) 
+- 📝 [My GitHub Portfolio](https://github.com/your-username)
+
+---
+
+Thanks for stopping by! 🌟
